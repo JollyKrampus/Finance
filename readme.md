@@ -1,1 +1,1 @@
-My best attempt at streamlining my finances into an application.
+# The goal is to streamline personal finances into an open source application. Save money using this instead of subscribing to 3rd party financial apps.
